@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Sebastián Cataño Gil
+// 000160532
+// sebsatian.catano@upb.edu.co
 (START)
     @START
     0;JMP
