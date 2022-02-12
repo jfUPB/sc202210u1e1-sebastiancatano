@@ -4,7 +4,11 @@
 (START)
 @24576
 D=M
-@LETRA F
+@0
+M=D
+@24576
+D=M
+@70
 D=A-D
 @FILLCOLOR
 D;JEQ
