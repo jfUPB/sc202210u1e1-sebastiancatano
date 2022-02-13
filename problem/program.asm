@@ -1,6 +1,6 @@
 // Sebastián Cataño Gil
 // 000160532
-// sebsatian.catano@upb.edu.co
+// sebastian.catano@upb.edu.co
 @16384
 D=A
 @0
