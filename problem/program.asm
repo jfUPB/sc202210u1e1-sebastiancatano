@@ -5,27 +5,27 @@
 D=A
 @0
 M=D
-//Linea 4 @24576
+@24576
 D=M
 @70
 D=A-D
-@8
+@18
 D;JEQ
 @24576
 D=M
 @67
 D=A-D
-@CLEAR
+@22
 D;JEQ
 @4
 0;JMP
 @1
 M=-1 //NEGRO
-@
+@26
 0;JMP
 @1
 M=0 //BLANCO
-@27
+@26
 0;JMP
 @1
 D=M
@@ -34,12 +34,12 @@ A=M
 M=D
 @0
 D=M+1
-@KBD
+@24576
 D=A-D
 @0
 M=M+1
 A=M
-@18
+@26
 D;JGT
 @0
 0;JMP
